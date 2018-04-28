@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1524887008 source:/home/renzo/Escritorio/Affin/main.cpp
+	<iostream>
+	"affin.h"
+
+1524886779 source:/home/renzo/Escritorio/Affin/affin.cpp
+	"affin.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+	<time.h>
+	"euclides.h"
+
+1524886728 /home/renzo/Escritorio/Affin/affin.h
+	<string>
+
+1524885513 /home/renzo/Escritorio/Affin/euclides.h
+
