@@ -14,8 +14,9 @@ public:
     void generadorClaves();
     RSA();
     void mostrarDatos();
-    int cifrado(int, int, char);
-    char descifrado(int);
+    int cifrado(int, int, string);
+    string descifrado(int);
+    string descifrado2();
 };
 
 #endif // RSA_H_INCLUDED

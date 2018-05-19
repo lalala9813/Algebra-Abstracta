@@ -6,12 +6,16 @@ using namespace std;
 
 int main()
 {
+    cout << "\t\t\t\t   RSA\n";
     RSA a;
-    char mensaje;
+    string mensaje;
     cout << "Dame tu mensaje -> ";
     cin >> mensaje;
+
+    cout << "\nCifrado" << endl;
     int x = a.cifrado(a.clavePublica1,a.nyYa,mensaje);
-    cout << "Cifrado -> " << x << endl;
-    cout << a.descifrado(x);
+
+    cout << "\n\nDescifrado" << a.descifrado(x);
+    cout << "\nDescifrando -> " << a.descifrado2();
     return 0;
 }
