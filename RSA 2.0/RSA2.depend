@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1525468462 source:c:\users\girolamosavonarola\desktop\rsa2\main.cpp
+	<iostream>
+	"rsa.h"
+	"operaciones.h"
+
+1525464543 c:\users\girolamosavonarola\desktop\rsa2\rsa.h
+	<iostream>
+
+1525468012 c:\users\girolamosavonarola\desktop\rsa2\operaciones.h
+
+1525468723 source:c:\users\girolamosavonarola\desktop\rsa2\rsa.cpp
+	<iostream>
+	"rsa.h"
+	"operaciones.h"
+	<time.h>
+
+1525468194 source:c:\users\girolamosavonarola\desktop\rsa2\operaciones.cpp
+	<iostream>
+	"operaciones.h"
+	<iostream>
+
+1525544927 source:c:\users\girolamosavonarola\desktop\rsa\main.cpp
+	<iostream>
+	"rsa.h"
+	"operaciones.h"
+
+1525544332 c:\users\girolamosavonarola\desktop\rsa\rsa.h
+	<iostream>
+
+1525468012 c:\users\girolamosavonarola\desktop\rsa\operaciones.h
+
+1525468823 source:c:\users\girolamosavonarola\desktop\rsa\operaciones.cpp
+	<iostream>
+	"operaciones.h"
+	<iostream>
+
+1525544927 source:c:\users\girolamosavonarola\desktop\rsa\rsa.cpp
+	<iostream>
+	"rsa.h"
+	"operaciones.h"
+	<time.h>
+	<vector>
+
